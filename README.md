@@ -17,7 +17,7 @@ Select multiple lines or a range of characters in a line and with CTRL+Click on 
 a single comment will be created for the whole range.
 
 - Uncomment
-  Put the cursor inside the range of a comment, and click the [Uncomment] button.
+Put the cursor inside the range of a comment, and click the [Uncomment] button.
 
 - Empty lines not commented-out
 
